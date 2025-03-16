@@ -1,10 +1,10 @@
-# rotated_xor
+# Rotated_XOR
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project contains the flutter code to perform xor operations on BMP different encoded bmp images by rotating them through different angles. This app will take two BMP images from the gallery and will do XOR on them and will show the xored result.
 
 A few resources to get you started if this is your first Flutter project:
 
